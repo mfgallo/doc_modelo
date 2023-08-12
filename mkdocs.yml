@@ -1,5 +1,4 @@
 site_name: Modelo Visão Computacional
-site_url: https://florestaemmarte.com/
 nav:
   - Home: index.md
   - About: about.md
